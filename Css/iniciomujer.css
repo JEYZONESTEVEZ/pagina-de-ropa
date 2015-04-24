@@ -1,0 +1,42 @@
+a#home{float:right;
+	margin-left:10px;
+text-decoration:none;
+color:red;}
+
+
+a#home:hover{color:#0044FF;}
+p > img {position:absolute;
+		top:50px;
+		left:300px;}
+h2 > img {position:absolute;
+			top:600px;
+			left:200px;}
+
+h3 > img {position:absolute;
+			top:500px;
+			left:840px;}
+
+
+ul#ul{float: left;
+	  margin-top:400px;
+}
+a#Blusas{float:left;
+			margin-top: 20px;
+			margin-left: 250px;
+			color: red;
+			text-decoration:none;}
+			a#Blusas:hover{color:blue;}
+
+a#Vestidos{float: left;
+		margin-top:70px;
+	margin-left: -65px;
+    color: red;
+text-decoration:none;}
+a#Vestidos:hover{color:blue;}
+
+a#Pantalones{float:left;
+		margin-top: 120px;
+	margin-left: -80px;
+    color: red;
+text-decoration:none;}
+a#Pantalones:hover{color:blue;}

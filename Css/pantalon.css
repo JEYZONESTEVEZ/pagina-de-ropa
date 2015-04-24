@@ -1,0 +1,40 @@
+a#home{float:right;
+	margin-left:10px;
+text-decoration:none;
+color:red;}
+
+a#inicio{float:right;
+text-decoration:none;
+color:red;}
+
+a#home:hover{color:blue;}
+a#inicio:hover{color:blue;}
+
+p > img {position:absolute;
+		top:50px;
+		left:450px;}
+h2 > img {position:absolute;
+			top:400px;
+			left:200px;}
+
+h3 > img {position:absolute;
+			top:400px;
+			left:900px;}
+
+ul#lista{float:left;
+	margin-top:400px;
+	margin-left:500px;
+	font-size: 25px;
+		color:White;
+	text-decoration:none;
+}
+a#Compra{float:left;
+margin-top:100px;
+margin-left:600px;
+font-size: 25px;
+color:White;
+text-decoration:none;
+}
+a#compra:hover{color:blue;}
+
+
